@@ -18,6 +18,18 @@
 
 >./vendor/bin/sail artisan test
 
+## To Seed the Database
+
+**what command to run**
+
+>./vendor/bin/sail artisan migrate:fresh
+
+## To Stop the Container
+
+**what command to run**
+
+>./vendor/bin/sail down
+
 
 
 ## Submitted by
